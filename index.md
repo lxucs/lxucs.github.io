@@ -6,8 +6,8 @@ title: " "
 
 ## About
 
-I am currently a PhD student of Computer Science at Emory University, and my main research focus is Natural Language
-Processing (NLP), advised by Prof. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html). I have been working on NLP research projects related with: (1) various document understanding tasks, including coreference
+I am a current PhD student of Computer Science at Emory University, and my main research focus is Natural Language
+Processing (NLP), advised by Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html). I have been working on NLP-related research projects on the following subjects: (1) various document understanding tasks, including coreference
 resolution, machine reading comprehension, relation extraction, document classification (2) cross-lingual transfer on downstream tasks (3) language model scoring.
 
 ## News
@@ -16,6 +16,7 @@ resolution, machine reading comprehension, relation extraction, document classif
 * \[08/2021\]: one paper got accepted by ***EMNLP** 2021*.
 * \[08/2021\]: ranked 1st place on *CODI-CRAC 2021* shared task subtask 1.
 * \[05/2021\]: started Applied Scientist Intern @ Amazon Alexa ASR.
+* \[10/2020\]: started research collaboration with NEC Labs America.
 * \[09/2020\]: one paper got accepted by ***EMNLP** 2020*.
 * \[08/2020\]: winner of the 2020 Amazon Alexa Prize (Emory NLP team efforts).
 * \[04/2020\]: one paper got accepted by *BioNLP 2020*.
@@ -32,9 +33,9 @@ resolution, machine reading comprehension, relation extraction, document classif
   Language Processing (***EMNLP 2021***).
 * **Liyan Xu**, Jinho D. Choi. “*Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues.*”
   The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue (***CODI-CRAC 2021***).
-* Han He, **Liyan Xu**, Jinho D. Choi. "*ELIT: Emory Language and Information Toolkit.*" Sept 2021. arxiv.org.
+* Han He, **Liyan Xu**, Jinho D. Choi. "*ELIT: Emory Language and Information Toolkit.*" arXiv preprint 2109.03903.
 * **Liyan Xu**, Jinho D. Choi. “*Revealing the Myth of Higher-Order Inference in Coreference Resolution.*” The
   2020 Conference on Empirical Methods in Natural Language Processing (***EMNLP 2020***).
 * **Liyan Xu**, Julien Hogan, Rachel E. Patzer, Jinho D. Choi. “*Noise Pollution in Hospital Readmission Prediction: Long
   Document Classification with Reinforcement Learning.*” The 19th SIGBioMed Workshop on Biomedical
-  Language Processing (***BioBLP 2020***).
+  Language Processing (***BioNLP 2020***).
