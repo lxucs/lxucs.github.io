@@ -1,7 +1,6 @@
 @charset "utf-8";
 
-/*@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";*/
-// skin
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes"; // main partials
 
 
@@ -22,21 +21,21 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
   the "Breakpoints" section of "_variables.scss"?
 */
 html {
-  font-size: 10px; // change to whatever
+  font-size: 6px; // change to whatever
 
   @include breakpoint($small) {
-    font-size: 10px; // change to whatever
+    font-size: 6px; // change to whatever
   }
 
   @include breakpoint($medium) {
-    font-size: 10px; // change to whatever
+    font-size: 6px; // change to whatever
   }
 
   @include breakpoint($large) {
-    font-size: 10px; // change to whatever
+    font-size: 6px; // change to whatever
   }
 
   @include breakpoint($x-large) {
-    font-size: 10px; // change to whatever
+    font-size: 6px; // change to whatever
   }
 }
