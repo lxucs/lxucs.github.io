@@ -22,5 +22,19 @@ resolution, machine reading comprehension, relation extraction, document classif
 
 ## Publications
 
-Pub 1
-
+* **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi. "*Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph.*" Thirty-Sixth AAAI Conference on Artificial Intelligence (***AAAI 2022***).
+* Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
+  Jeffrey M. Switchenko, Gelareh Sadigh. "*COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A
+  Secondary Analysis of Reports Using Natural Language Processing.*" Current Problems in Diagnostic Radiology (to appear)
+  .
+* **Liyan Xu**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho D. Choi. “*Boosting Cross-Lingual Transfer via
+  Self-Learning with Uncertainty Estimation.*” The 2021 Conference on Empirical Methods in Natural
+  Language Processing (***EMNLP 2021***).
+* **Liyan Xu**, Jinho D. Choi. “*Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues.*”
+  The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue (***CODI-CRAC 2021***).
+* Han He, **Liyan Xu**, Jinho D. Choi. "*ELIT: Emory Language and Information Toolkit.*" Sept 2021. arxiv.org.
+* **Liyan Xu**, Jinho D. Choi. “*Revealing the Myth of Higher-Order Inference in Coreference Resolution.*” The
+  2020 Conference on Empirical Methods in Natural Language Processing (***EMNLP 2020***).
+* **Liyan Xu**, Julien Hogan, Rachel E. Patzer, Jinho D. Choi. “*Noise Pollution in Hospital Readmission Prediction: Long
+  Document Classification with Reinforcement Learning.*” The 19th SIGBioMed Workshop on Biomedical
+  Language Processing (***BioBLP 2020***).
