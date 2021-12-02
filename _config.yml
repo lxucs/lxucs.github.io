@@ -18,9 +18,7 @@ name: Liyan Xu
 title: Liyan Xu Homepage
 email: leonxu624@gmail.com
 url: "https://lxucs.github.io"
-description: >- # this means to ignore newlines until "baseurl:"
-Liyan Xu is a PhD student of Computer Science at Emory University.
-His main research focuses on Natural Language Processing (NLP), including cross-lingual transfer and various document-understanding tasks such as coreference resolution, machine reading comprehension, relation extraction.
+description: "Liyan Xu is a PhD student of Computer Science at Emory University. His main research focuses on Natural Language Processing (NLP), including cross-lingual transfer and various document-understanding tasks such as coreference resolution, machine reading comprehension, relation extraction."
 # twitter_username: username
 github_username: lxucs
 minimal_mistakes_skin: contrast
