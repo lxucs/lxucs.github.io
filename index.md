@@ -24,9 +24,7 @@ resolution, machine reading comprehension, relation extraction, document classif
 
 ## Publications
 
-* **Liyan Xu**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko. *"
-  RescoreBERT: Discriminative Speech Recognition Rescoring with BERT"*. 2022 IEEE International Conference on Acoustics, Speech and
-  Signal Processing (***ICASSP 2022***).
+* **Liyan Xu**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko. *"RescoreBERT: Discriminative Speech Recognition Rescoring with BERT"*. 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (***ICASSP 2022***).
 * **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi. *"Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph"*. Thirty-Sixth AAAI Conference on Artificial Intelligence (***AAAI 2022***).
 * Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
   Jeffrey M. Switchenko, Gelareh Sadigh. *"COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A
