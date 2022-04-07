@@ -12,6 +12,8 @@ resolution, machine reading comprehension, relation extraction, document classif
 
 ## News
 
+* \[05/2022\]: will start Applied Scientist Intern @ Amazon Product Graph.
+* \[04/2022\]: one paper got accepted by ***NAACL** 2022*.
 * \[01/2022\]: one paper got accepted by ***ICASSP** 2022*.
 * \[12/2021\]: one paper got accepted by ***AAAI** 2022*.
 * \[08/2021\]: one paper got accepted by ***EMNLP** 2021*.
@@ -24,6 +26,8 @@ resolution, machine reading comprehension, relation extraction, document classif
 
 ## Publications
 
+* **Liyan Xu**, Jinho D. Choi. *"Modeling Explicit Task Interactions in Document-Level Joint Entity and Relation Extraction"*. The
+  2022 Conference of the North American Chapter of the Association for Computational Linguistics (***NAACL 2022***) (to appear).
 * **Liyan Xu**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko. *"RescoreBERT: Discriminative Speech Recognition Rescoring with BERT"*. 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (***ICASSP 2022***).
 * **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi. *"Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph"*. Thirty-Sixth AAAI Conference on Artificial Intelligence (***AAAI 2022***).
 * Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
