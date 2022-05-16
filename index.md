@@ -14,6 +14,7 @@ resolution, machine reading comprehension, relation extraction, document classif
 
 * \[05/2022\]: started Applied Scientist Intern @ Amazon Product Graph.
 * \[04/2022\]: one paper got accepted by ***NAACL** 2022*.
+* \[04/2022\]: one paper got accepted by *\*SEM 2022*.
 * \[01/2022\]: one paper got accepted by ***ICASSP** 2022*.
 * \[12/2021\]: one paper got accepted by ***AAAI** 2022*.
 * \[08/2021\]: one paper got accepted by ***EMNLP** 2021*.
