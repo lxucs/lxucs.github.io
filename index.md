@@ -6,12 +6,15 @@ title: " "
 
 ## About
 
-I am a current PhD student of Computer Science at Emory University, and my main research focus is Natural Language
+I am currently a PhD candidate of Computer Science at Emory University, and my main research focus is Natural Language
 Processing (NLP), advised by Dr. [Jinho Choi](http://www.mathcs.emory.edu/~choi/home.html). I have been working on NLP-related research projects on the following subjects: (1) various document understanding tasks, including coreference
-resolution, machine reading comprehension, relation extraction, document classification (2) cross-lingual transfer on downstream tasks (3) language model scoring.
+resolution, information extraction, machine reading comprehension (2) cross-lingual transfer on downstream tasks (3) language model scoring.
+
+My current research focus is on **information extraction**, and I am interested in two directions: (1) under an open-domain / weakly-supervised setting (2) building an unified approach for different extraction tasks.
 
 ## News
 
+* \[07/2022\]: attended my first in-person conference (NAACL 2022) in Seattle!
 * \[05/2022\]: started Applied Scientist Intern @ Amazon Product Graph.
 * \[04/2022\]: one paper got accepted by ***NAACL** 2022*.
 * \[04/2022\]: one paper got accepted by *\*SEM 2022*.
@@ -28,9 +31,9 @@ resolution, machine reading comprehension, relation extraction, document classif
 ## Publications
 
 * **Liyan Xu**, Jinho D. Choi. *"Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction"*. The
-  2022 Conference of the North American Chapter of the Association for Computational Linguistics (***NAACL 2022***) (to appear).
+  2022 Conference of the North American Chapter of the Association for Computational Linguistics (***NAACL 2022***).
 * **Liyan Xu**, Jinho D. Choi. *"Online Coreference Resolution for Dialogue Processing: Improving Mention-Linking on
-  Real-Time Conversations"*. The 11th Joint Conference on Lexical and Computational Semantics (***\*SEM 2022***) (to appear).
+  Real-Time Conversations"*. The 11th Joint Conference on Lexical and Computational Semantics (***\*SEM 2022***).
 * **Liyan Xu**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko. *"RescoreBERT: Discriminative Speech Recognition Rescoring with BERT"*. 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (***ICASSP 2022***).
 * **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi. *"Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph"*. Thirty-Sixth AAAI Conference on Artificial Intelligence (***AAAI 2022***).
 * Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, **Liyan Xu**, Lawrence Carin. *"Number Entity Recognition"*.
