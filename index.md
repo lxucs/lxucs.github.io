@@ -10,7 +10,7 @@ I am currently a PhD candidate of Computer Science at Emory University, and my m
 Processing (NLP), advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I have been working on NLP-related research projects on the following subjects: (1) various document understanding tasks, including coreference
 resolution, information extraction, machine reading comprehension (2) cross-lingual transfer on downstream tasks (3) language model scoring.
 
-My current research focus is on **information extraction**, and I am interested in several directions: (1) under an open-domain / weakly-supervised setting (2) building an unified approach for different extraction tasks. I am also interested in **dialogue** domain tasks, such as IE on dialogues, dialogue management and generation.
+My current research focus is on **information extraction**, and I am interested in several directions: (1) under an open-domain / weakly-supervised setting (2) building a unified approach for different extraction tasks. I am also interested in **dialogue** domain tasks, such as IE on dialogues, dialogue management and generation.
 
 ## News
 
