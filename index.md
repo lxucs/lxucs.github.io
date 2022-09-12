@@ -14,6 +14,7 @@ My current research focus is on **information extraction**, and I am interested 
 
 ## News
 
+* \[08/2022\]: one co-authored paper got accepted by ***CIKM** 2022*.
 * \[07/2022\]: attended my first in-person conference (NAACL 2022) in Seattle!
 * \[05/2022\]: started Applied Scientist Intern @ Amazon Product Graph.
 * \[04/2022\]: one paper got accepted by ***NAACL** 2022*.
@@ -30,14 +31,13 @@ My current research focus is on **information extraction**, and I am interested 
 
 ## Publications
 
+* Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, ***Liyan Xu***, Lawrence Carin. *"Improving Downstream Task Performance by Treating Numbers as Entities"*. 31st ACM International Conference on Information and Knowledge Management (***CIKM 2022***).
 * **Liyan Xu**, Jinho D. Choi. *"Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction"*. The
   2022 Conference of the North American Chapter of the Association for Computational Linguistics (***NAACL 2022***).
 * **Liyan Xu**, Jinho D. Choi. *"Online Coreference Resolution for Dialogue Processing: Improving Mention-Linking on
   Real-Time Conversations"*. The 11th Joint Conference on Lexical and Computational Semantics (***\*SEM 2022***).
 * **Liyan Xu**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko. *"RescoreBERT: Discriminative Speech Recognition Rescoring with BERT"*. 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (***ICASSP 2022***).
 * **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi. *"Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph"*. Thirty-Sixth AAAI Conference on Artificial Intelligence (***AAAI 2022***).
-* Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, **Liyan Xu**, Lawrence Carin. *"Number Entity Recognition"*.
-  arXiv preprint 2205.03559.
 * Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
   Jeffrey M. Switchenko, Gelareh Sadigh. *"COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A
   Secondary Analysis of Reports Using Natural Language Processing"*. Current Problems in Diagnostic Radiology, 2021.
