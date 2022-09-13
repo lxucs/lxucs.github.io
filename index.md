@@ -15,7 +15,7 @@ My current research focus is on **information extraction**, and I am interested 
 ## News
 
 * \[08/2022\]: one co-authored paper got accepted by ***CIKM** 2022*.
-* \[07/2022\]: attended my first in-person conference (NAACL 2022) in Seattle!
+* \[07/2022\]: attended my first in-person conference (*NAACL 2022*) in Seattle!
 * \[05/2022\]: started Applied Scientist Intern @ Amazon Product Graph.
 * \[04/2022\]: one paper got accepted by ***NAACL** 2022*.
 * \[04/2022\]: one paper got accepted by *\*SEM 2022*.
@@ -24,14 +24,14 @@ My current research focus is on **information extraction**, and I am interested 
 * \[08/2021\]: one paper got accepted by ***EMNLP** 2021*.
 * \[08/2021\]: ranked 1st place on *CODI-CRAC 2021* shared task subtask 1 (anaphora resolution).
 * \[05/2021\]: started Applied Scientist Intern @ Amazon Alexa ASR.
-* \[10/2020\]: started research collaboration with NEC Labs America.
+* \[10/2020\]: started research collaboration @ NEC Labs America.
 * \[09/2020\]: one paper got accepted by ***EMNLP** 2020*.
 * \[08/2020\]: winning team of the 2020 Amazon Alexa Prize (Emory NLP team efforts).
 * \[04/2020\]: one paper got accepted by *BioNLP 2020*.
 
 ## Publications
 
-* Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, ***Liyan Xu***, Lawrence Carin. *"Improving Downstream Task Performance by Treating Numbers as Entities"*. 31st ACM International Conference on Information and Knowledge Management (***CIKM 2022***).
+* Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, <u>***Liyan Xu***</u>, Lawrence Carin. *"Improving Downstream Task Performance by Treating Numbers as Entities"*. 31st ACM International Conference on Information and Knowledge Management (***CIKM 2022***).
 * **Liyan Xu**, Jinho D. Choi. *"Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction"*. The
   2022 Conference of the North American Chapter of the Association for Computational Linguistics (***NAACL 2022***).
 * **Liyan Xu**, Jinho D. Choi. *"Online Coreference Resolution for Dialogue Processing: Improving Mention-Linking on
