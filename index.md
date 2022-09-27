@@ -31,7 +31,7 @@ My current research focus is on **information extraction**, and I am interested 
 
 ## Publications
 
-* Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, ***Liyan Xu***, Lawrence Carin.  
+* Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, **Liyan Xu**, Lawrence Carin.  
 *"Improving Downstream Task Performance by Treating Numbers as Entities"*.  
 \[***CIKM 2022***\] 31st ACM International Conference on Information and Knowledge Management.
 * **Liyan Xu**, Jinho D. Choi.  
