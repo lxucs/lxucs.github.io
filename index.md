@@ -33,25 +33,25 @@ My current research interests: (1) **information extraction** under different se
 
 * Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, **Liyan Xu**, Lawrence Carin.  
 *"Improving Downstream Task Performance by Treating Numbers as Entities"*.  
-\[***CIKM 2022***\] 31st ACM International Conference on Information and Knowledge Management.
+\[**CIKM'22**\] 31st ACM International Conference on Information and Knowledge Management.
 * **Liyan Xu**, Jinho D. Choi.  
 *"Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction"*.  
-\[***NAACL 2022***\] The 2022 Conference of the North American Chapter of the Association for Computational Linguistics.
+\[**NAACL'22**\] The 2022 Conference of the North American Chapter of the Association for Computational Linguistics.
 * **Liyan Xu**, Jinho D. Choi.  
 *"Online Coreference Resolution for Dialogue Processing: Improving Mention-Linking on Real-Time Conversations"*.  
-\[***\*SEM 2022***\] The 11th Joint Conference on Lexical and Computational Semantics.
+\[**\*SEM'22**\] The 11th Joint Conference on Lexical and Computational Semantics.
 * **Liyan Xu**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko.  
 *"RescoreBERT: Discriminative Speech Recognition Rescoring with BERT"*.  
-\[***ICASSP 2022***\] 2022 IEEE International Conference on Acoustics, Speech and Signal Processing.
+\[**ICASSP'22**\] 2022 IEEE International Conference on Acoustics, Speech and Signal Processing.
 * **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi.  
 *"Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph"*.  
-\[***AAAI 2022***\] Thirty-Sixth AAAI Conference on Artificial Intelligence.
+\[**AAAI'22**\] Thirty-Sixth AAAI Conference on Artificial Intelligence.
 * **Liyan Xu**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho D. Choi.  
 *"Boosting Cross-Lingual Transfer via Self-Learning with Uncertainty Estimation"*.  
-\[***EMNLP 2021***\] The 2021 Conference on Empirical Methods in Natural Language Processing.
+\[**EMNLP'21**\] The 2021 Conference on Empirical Methods in Natural Language Processing.
 * **Liyan Xu**, Jinho D. Choi.  
 *"Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues"*.  
-\[***CODI-CRAC 2021***\] The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue.
+\[**CODI-CRAC'21**\] The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue.
 * Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
   Jeffrey M. Switchenko, Gelareh Sadigh.  
 *"COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A Secondary Analysis of Reports Using Natural Language Processing"*.  
@@ -61,7 +61,7 @@ Current Problems in Diagnostic Radiology, 2021.
 arXiv preprint 2109.03903.
 * **Liyan Xu**, Jinho D. Choi.  
 *"Revealing the Myth of Higher-Order Inference in Coreference Resolution"*.  
-\[***EMNLP 2020***\] The 2020 Conference on Empirical Methods in Natural Language Processing.
+\[**EMNLP'20**\] The 2020 Conference on Empirical Methods in Natural Language Processing.
 * **Liyan Xu**, Julien Hogan, Rachel E. Patzer, Jinho D. Choi.  
 *"Noise Pollution in Hospital Readmission Prediction: Long Document Classification with Reinforcement Learning"*.  
-\[***BioNLP 2020***\] The 19th SIGBioMed Workshop on Biomedical Language Processing.
+\[**BioNLP'20**\] The 19th SIGBioMed Workshop on Biomedical Language Processing.
