@@ -8,9 +8,9 @@ title: " "
 
 I am currently a PhD candidate of Computer Science at Emory University, and my main research focus is Natural Language
 Processing (NLP), advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I have been working on NLP-related research projects on the following subjects: (1) various document understanding tasks, including coreference
-resolution, information extraction, machine reading comprehension (2) cross-lingual transfer on downstream tasks (3) language model scoring.
+resolution, information extraction, machine reading comprehension (2) cross-lingual transfer on downstream tasks (3) dialogue-related tasks and adaptations (4) NLP applications on healthcare.
 
-My current research focus is on **information extraction**, and I am interested in several directions: (1) under an open-domain / weakly-supervised setting (2) building a unified approach for different extraction tasks. I am also interested in **dialogue** domain tasks, such as IE on dialogues, dialogue management and generation.
+My current research interests: (1) **information extraction** under different settings (2) **dialogue**-related tasks and chatbot management.
 
 ## News
 
@@ -26,7 +26,7 @@ My current research focus is on **information extraction**, and I am interested 
 * \[05/2021\]: started Applied Scientist Intern @ Amazon Alexa ASR.
 * \[10/2020\]: started research collaboration @ NEC Labs America.
 * \[09/2020\]: one paper got accepted by ***EMNLP** 2020*.
-* \[08/2020\]: winning team of the 2020 Amazon Alexa Prize (Emory NLP team efforts).
+* \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition (Emory NLP team efforts).
 * \[04/2020\]: one paper got accepted by *BioNLP 2020*.
 
 ## Publications
