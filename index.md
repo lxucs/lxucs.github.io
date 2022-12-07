@@ -10,10 +10,11 @@ I am currently a PhD candidate of Computer Science at Emory University, and my m
 Processing (NLP), advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I have been working on NLP-related research projects on the following subjects: (1) various document understanding tasks, including coreference
 resolution, information extraction, machine reading comprehension (2) cross-lingual transfer on downstream tasks (3) dialogue-related tasks and adaptations (4) NLP applications on healthcare.
 
-My current research interests: (1) **information extraction** under different settings (2) **dialogue**-related tasks and chatbot management.
+My current research interests: (1) document-level semantic understanding and related tasks (2) **dialogue**-related tasks and chatbot management.
 
 ## News
 
+* \[12/2022\]: one co-authored paper got accepted by *KIR* (*IF: 4.2*).
 * \[08/2022\]: one co-authored paper got accepted by ***CIKM** 2022*.
 * \[07/2022\]: attended my first in-person conference (*NAACL 2022*) in Seattle!
 * \[05/2022\]: started Applied Scientist Intern @ Amazon Product Graph.
