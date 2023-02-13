@@ -6,12 +6,10 @@ title: " "
 
 ## About
 
-I am currently a PhD candidate of Computer Science at Emory University, focusing on Natural Language Processing (NLP) research, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi).
+I am currently a PhD candidate of Computer Science at Emory University, focusing on Natural Language Processing (NLP) research, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I am also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in Spring 2023.
 
 My overall research vision is to enable **document-level understanding** that automatically identifies, extracts, and utilizes the information/knowledge/stories conveyed in text documents.
-During my PhD, I have worked on related projects on the following subjects:
-* various downstream tasks, including coreference resolution, information extraction, extractive QA, summarization.
-* challenging settings, including weak supervision, dialogue/medical domain, cross-lingual transfer.
+During my PhD, I have worked on related projects on the following subjects: 1) various downstream tasks, including coreference resolution, information extraction, extractive QA, summarization; 2) challenging settings, including weak supervision, dialogue/medical domain, cross-lingual transfer.
 
 For my future research, I am particularly interested in modeling structural representation of long documents and dialogues for certain tasks.
 If you have any questions or would like to discuss/collaborate, welcome to send me email at <liyan.xu@emory.edu>
