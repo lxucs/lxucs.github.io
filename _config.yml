@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "Liyan Xu"
   avatar : "/assets/images/bio.jpeg"
-  bio    : "PhD Student @ Emory University"
+  bio    : "PhD Candidate @ Emory University"
   location: "Atlanta, US"
   links:
     - label: "LinkedIn"
@@ -76,9 +76,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lxucs"
-    - label: "Blog"
-      icon: "fas fa-fw fa-rss"
-      url: "https://liyanxu.blog"
+#    - label: "Blog"
+#      icon: "fas fa-fw fa-rss"
+#      url: "https://liyanxu.blog"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"

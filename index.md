@@ -6,15 +6,20 @@ title: " "
 
 ## About
 
-I am currently a PhD candidate of Computer Science at Emory University, and my main research focus is Natural Language
-Processing (NLP), advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I have been working on NLP-related research projects on the following subjects: (1) various document understanding tasks, including coreference
-resolution, information extraction, machine reading comprehension (2) cross-lingual transfer on downstream tasks (3) dialogue-related tasks and adaptations (4) NLP applications on healthcare.
+I am currently a PhD candidate of Computer Science at Emory University, focusing on Natural Language Processing (NLP) research, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi).
 
-My current research interests: (1) document-level semantic understanding and related tasks (2) **dialogue**-related tasks and chatbot management.
+My overall research vision is to enable **document-level understanding** that automatically identifies, extracts, and utilizes the information/knowledge/stories conveyed in text documents.
+During my PhD, I have worked on related projects on the following subjects:
+* various downstream tasks, including coreference resolution, information extraction, extractive QA, summarization.
+* challenging settings, including weak supervision, dialogue/medical domain, cross-lingual transfer.
+
+For my future research, I am particularly interested in modeling structural representation of long documents and dialogues for certain tasks.
+If you have any questions or would like to discuss/collaborate, welcome to send me email at <liyan.xu@emory.edu>
+
 
 ## News
 
-* \[12/2022\]: one co-authored paper got accepted by *KIR* (*IF: 4.2*).
+* \[12/2022\]: one co-authored paper got accepted by *KIR* (*IF 2022*: 4.2).
 * \[08/2022\]: one co-authored paper got accepted by ***CIKM** 2022*.
 * \[07/2022\]: attended my first in-person conference (*NAACL 2022*) in Seattle!
 * \[05/2022\]: started Applied Scientist Intern @ Amazon Product Graph.
