@@ -8,9 +8,9 @@ I am a PhD candidate of Computer Science at Emory University, focusing on Natura
 
 ## Research Interests
 
-My overall research interests focus around document understanding. My past work has studied on various related tasks and settings:
-- tasks: coreference resolution, information extraction, summarization, reading comprehension
-- settings: cross-lingual transfer, weak supervision, domain adaptation
+My overall research interests focus around **document understanding**. My past work has studied on various related tasks and settings:
+- Tasks: coreference resolution, information extraction, summarization, reading comprehension
+- Settings: cross-lingual transfer, weak supervision, domain adaptation
 
 For my future research, I am particularly interested in addressing certain challenges in long document understanding, as well as new tasks to further push for next-gen document comprehension.
 
