@@ -6,9 +6,9 @@ email: liyan.xu@emory.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Liyan Xu, NLP
+description: Homepage for Liyan Xu, PhD candidate at Emory University focusing on NLP research.
+canonical: https://lxucs.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -46,3 +46,4 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+  - .DS_Store
