@@ -34,6 +34,10 @@ For my future research, I am particularly interested in addressing certain chall
 
 ## Publications
 
+- **Predicting Kidney Transplant Recipient Cohorts’ 30-Day Rehospitalization Using Clinical Notes and Electronic Health Care Record Data** <br>
+  Michael Arenson, Julien Hogan, **Liyan Xu**, Raymond Lynch, Yi-Ting Hana Lee, Jinho D. Choi, Jimeng Sun, Andrew Adams, Rachel E. Patzer <br>
+  *Kidney International Reports, March 2023.* [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S2468024922019015)
+
 - **Improving Downstream Task Performance by Treating Numbers as Entities** <br>
   Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, **Liyan Xu**, Lawrence Carin <br>
   [**CIKM'22**] *31st ACM International Conference on Information and Knowledge Management.* [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557614)
@@ -54,6 +58,11 @@ For my future research, I am particularly interested in addressing certain chall
   **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi <br>
   [**AAAI'22**] *Thirty-Sixth AAAI Conference on Artificial Intelligence.* [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/21407)
 
+- **COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A Secondary Analysis of Reports Using Natural Language Processing** <br>
+  Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
+  Jeffrey M. Switchenko, Gelareh Sadigh <br>
+  *Current Problems in Diagnostic Radiology, July–August 2022.* [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0363018821001894)
+
 - **Boosting Cross-Lingual Transfer via Self-Learning with Uncertainty Estimation** <br>
   **Liyan Xu**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho D. Choi <br>
   [**EMNLP'21**] *The 2021 Conference on Empirical Methods in Natural Language Processing.* [\[Paper\]](https://aclanthology.org/2021.emnlp-main.538)
@@ -61,11 +70,6 @@ For my future research, I am particularly interested in addressing certain chall
 - **Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues** <br>
   **Liyan Xu**, Jinho D. Choi <br>
   [**CODI-CRAC'21**] *The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue.* [\[Paper\]](https://aclanthology.org/2021.codi-sharedtask.6)
-
-- **COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A Secondary Analysis of Reports Using Natural Language Processing** <br>
-  Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
-  Jeffrey M. Switchenko, Gelareh Sadigh <br>
-  *Current Problems in Diagnostic Radiology, 2021.* [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S0363018821001894)
 
 - **ELIT: Emory Language and Information Toolkit** <br>
   Han He, **Liyan Xu**, Jinho D. Choi <br>
