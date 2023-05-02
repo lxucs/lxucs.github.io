@@ -16,6 +16,7 @@ For my future research, I am particularly interested in addressing certain chall
 
 ## News
 
+- \[05/2023\]: one paper got accepted by **ACL** 2023.
 - \[12/2022\]: one co-authored paper got accepted by **KIR** (*IF 2022*: 4.2).
 - \[08/2022\]: one co-authored paper got accepted by **CIKM 2022**.
 - \[07/2022\]: attended my first in-person conference (NAACL 2022) in Seattle!
@@ -33,6 +34,10 @@ For my future research, I am particularly interested in addressing certain chall
 - \[04/2020\]: one paper got accepted by BioNLP 2020.
 
 ## Publications
+
+- **Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach** <br>
+  **Liyan Xu**, Chenwei Zhang, Xian Li, Jingbo Shang and Jinho D. Choi <br>
+  [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics* (to appear)
 
 - **Predicting Kidney Transplant Recipient Cohorts’ 30-Day Rehospitalization Using Clinical Notes and Electronic Health Care Record Data** <br>
   Michael Arenson, Julien Hogan, **Liyan Xu**, Raymond Lynch, Yi-Ting Hana Lee, Jinho D. Choi, Jimeng Sun, Andrew Adams, Rachel E. Patzer <br>
