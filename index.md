@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate of Computer Science in Emory University, focusing on Natural Language Processing (NLP) research, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I am also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in Spring 2023.
+I am a PhD candidate of Computer Science in **Emory University**, focusing on Natural Language Processing (NLP) research, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I am also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in Spring 2023.
 
-I will be joining WeChat AI, Tencent as a Research Scientist, after my PhD graduation in summer 2023.
+I will be joining **WeChat AI, Tencent** as a Research Scientist, after my PhD graduation in summer 2023.
 
-I am actively looking for motivated students to collaborate with me on NLP research. Please contact me by emails if you are interested in research collaborations or discussions. 
+*I am actively looking for motivated students to collaborate with me on NLP research. Please contact me by emails if you are interested in research collaborations or any discussions.*
 
 ## Research Interests
 
