@@ -4,11 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate of Computer Science at Emory University, focusing on Natural Language Processing (NLP) research, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I am also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in Spring 2023.
+I am a PhD candidate of Computer Science in Emory University, focusing on Natural Language Processing (NLP) research, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I am also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in Spring 2023.
+
+I will be joining WeChat AI, Tencent as a Research Scientist, after my PhD graduation in summer 2023.
+
+I am actively looking for motivated students to collaborate with me on NLP research. Please contact me by emails if you are interested in research collaborations or discussions. 
 
 ## Research Interests
 
-My overall research interests focus around **document understanding**. My past work has studied on various related tasks and settings:
+My overall research interests focus around **document understanding**. My past work has studied various related tasks and settings:
 - Tasks: coreference resolution, information extraction, summarization, reading comprehension
 - Settings: cross-lingual transfer, weak supervision, domain adaptation
 
@@ -17,6 +21,7 @@ For my future research, I am particularly interested in addressing certain chall
 
 ## News
 
+- \[05/2023\]: completed my PhD in Emory!
 - \[05/2023\]: one paper got accepted by **ACL** 2023.
 - \[12/2022\]: one co-authored paper got accepted by **KIR** (*IF 2022*: 4.2).
 - \[08/2022\]: one co-authored paper got accepted by **CIKM 2022**.
@@ -27,18 +32,18 @@ For my future research, I am particularly interested in addressing certain chall
 - \[01/2022\]: one paper got accepted by **ICASSP 2022**.
 - \[12/2021\]: one paper got accepted by **AAAI 2022**.
 - \[08/2021\]: one paper got accepted by **EMNLP 2021**.
-- \[08/2021\]: ranked 1st place on CODI-CRAC 2021 shared task subtask 1 (anaphora resolution).
+- \[08/2021\]: 1st place of CODI-CRAC 2021 shared task on anaphora resolution.
 - \[05/2021\]: started Applied Scientist Intern @ Amazon Alexa ASR.
 - \[10/2020\]: started research collaboration @ NEC Labs America.
 - \[09/2020\]: one paper got accepted by **EMNLP 2020**.
-- \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition (team efforts).
+- \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition.
 - \[04/2020\]: one paper got accepted by BioNLP 2020.
 
 ## Publications
 
 - **Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach** <br>
-  **Liyan Xu**, Chenwei Zhang, Xian Li, Jingbo Shang and Jinho D. Choi <br>
-  [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics* (to appear)
+  **Liyan Xu**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi <br>
+  [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics*. (to appear)
 
 - **Predicting Kidney Transplant Recipient Cohorts’ 30-Day Rehospitalization Using Clinical Notes and Electronic Health Care Record Data** <br>
   Michael Arenson, Julien Hogan, **Liyan Xu**, Raymond Lynch, Yi-Ting Hana Lee, Jinho D. Choi, Jimeng Sun, Andrew Adams, Rachel E. Patzer <br>
