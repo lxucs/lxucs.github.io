@@ -21,20 +21,18 @@ For my future research, I am particularly interested in addressing certain chall
 
 ## News
 
-- \[05/2023\]: completed my PhD in Emory!
-- \[05/2023\]: one paper got accepted by **ACL** 2023.
-- \[12/2022\]: one co-authored paper got accepted by **KIR** (*IF 2022*: 4.2).
+- \[05/2023\]: completed my PhD journey in Emory!
+- \[05/2023\]: one paper got accepted by **ACL 2023**.
 - \[08/2022\]: one co-authored paper got accepted by **CIKM 2022**.
-- \[07/2022\]: attended my first in-person conference (NAACL 2022) in Seattle!
-- \[05/2022\]: started Applied Scientist Intern @ Amazon Product Graph.
+- \[05/2022\]: started Applied Scientist Intern @ **Amazon Product Graph**.
 - \[04/2022\]: one paper got accepted by **NAACL 2022**.
 - \[04/2022\]: one paper got accepted by \*SEM 2022.
 - \[01/2022\]: one paper got accepted by **ICASSP 2022**.
 - \[12/2021\]: one paper got accepted by **AAAI 2022**.
 - \[08/2021\]: one paper got accepted by **EMNLP 2021**.
 - \[08/2021\]: 1st place of CODI-CRAC 2021 shared task on anaphora resolution.
-- \[05/2021\]: started Applied Scientist Intern @ Amazon Alexa ASR.
-- \[10/2020\]: started research collaboration @ NEC Labs America.
+- \[05/2021\]: started Applied Scientist Intern @ **Amazon Alexa ASR**.
+- \[10/2020\]: started research collaboration @ **NEC Labs America**.
 - \[09/2020\]: one paper got accepted by **EMNLP 2020**.
 - \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition.
 - \[04/2020\]: one paper got accepted by BioNLP 2020.
@@ -43,11 +41,11 @@ For my future research, I am particularly interested in addressing certain chall
 
 - **Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach** <br>
   **Liyan Xu**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi <br>
-  [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics*. (to appear)
+  [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics*. (to Appear)
 
 - **Predicting Kidney Transplant Recipient Cohorts’ 30-Day Rehospitalization Using Clinical Notes and Electronic Health Care Record Data** <br>
   Michael Arenson, Julien Hogan, **Liyan Xu**, Raymond Lynch, Yi-Ting Hana Lee, Jinho D. Choi, Jimeng Sun, Andrew Adams, Rachel E. Patzer <br>
-  *Kidney International Reports, March 2023.* [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S2468024922019015)
+  *Kidney International Reports, March 2023.* (*IF 2022*: 4.2) [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S2468024922019015)
 
 - **Improving Downstream Task Performance by Treating Numbers as Entities** <br>
   Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, **Liyan Xu**, Lawrence Carin <br>
