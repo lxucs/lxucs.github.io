@@ -21,6 +21,7 @@ For my future research, I am particularly interested in addressing certain chall
 
 ## News
 
+- \[06/2023\]: started Research Scientist @ WeChat AI.
 - \[05/2023\]: completed my PhD journey in Emory!
 - \[05/2023\]: one paper got accepted by **ACL 2023**.
 - \[08/2022\]: one co-authored paper got accepted by **CIKM 2022**.
