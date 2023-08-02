@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I work as a Research Scientist in **WeChat AI, Tencent** (微信模式识别中心), focusing on Natural Language Processing (NLP) research.
+I work as a Research Scientist in **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP) research.
 I recently obtained my PhD of Computer Science from **Emory University** in summer 2023, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in Spring 2023.
 
 *I am actively looking for motivated students to collaborate with me on NLP research. Please contact me by emails if you are interested in research collaborations or any discussions.*
