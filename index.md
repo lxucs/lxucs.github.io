@@ -4,23 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Research Scientist in **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP) research.
-I recently obtained my PhD of Computer Science from **Emory University** in summer 2023, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in Spring 2023.
-
-*I am actively looking for motivated students to collaborate with me on NLP research. Please contact me by emails if you are interested in research collaborations or any discussions.*
+I am currently a Research Scientist in **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
+I recently obtained my PhD of Computer Science from **Emory University**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi), and also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
 ## Research Interests
 
-My overall research interests focus around **document understanding**. My past studies have addressed various related tasks and settings:
+My past studies have addressed the following topics around **document understanding**:
 - Tasks: coreference resolution, information extraction, summarization, reading comprehension
-- Settings: cross-lingual transfer, weak supervision, domain adaptation
+- Settings: semi/weak supervision, cross-lingual transfer
 
-For my next research, I am particularly interested in addressing certain challenges in long document understanding, as well as new tasks to further push for next-gen document comprehension.
+I am currently working on several new exciting projects on **narrative understanding**, pushing for next-gen document comprehension under the LLM era. Papers are coming soon!
+
+*I am actively looking for motivated students to collaborate on NLP research. Please contact me by emails if you are interested in any research collaborations or discussions.*
 
 ## News
 
+- \[12/2023\]: one co-authored paper got accepted by **AAAI 2024**.
 - \[06/2023\]: started Research Scientist @ WeChat AI.
-- \[05/2023\]: completed my PhD journey in Emory!
+- \[05/2023\]: completed my PhD journey @ Emory!
 - \[05/2023\]: one paper got accepted by **ACL 2023**.
 - \[08/2022\]: one co-authored paper got accepted by **CIKM 2022**.
 - \[05/2022\]: started Applied Scientist Intern @ **Amazon Product Graph**.
@@ -37,6 +38,10 @@ For my next research, I am particularly interested in addressing certain challen
 - \[04/2020\]: one paper got accepted by BioNLP 2020.
 
 ## Publications
+
+- **SIG: Speaker Identification in Literature via Prompt-Based Generation** <br>
+  Zhenlin Su, **Liyan Xu**<sup>†</sup>, Jin Xu<sup>†</sup>, Jiangnan Li, Mingdu Huangfu <br>
+  [**AAAI'24**] *The 38th AAAI Conference on Artificial Intelligence.* [\[Paper\]](http://arxiv.org/abs/2312.14590)
 
 - **Exploring a Multi-Layered Cross-Genre Corpus of Document-Level Semantic Relations** <br>
   Gregor Williamson, Angela Cao, Yingying Chen, Yuxin Ji, **Liyan Xu**, Jinho D. Choi <br>
@@ -68,7 +73,7 @@ For my next research, I am particularly interested in addressing certain challen
 
 - **Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph** <br>
   **Liyan Xu**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi <br>
-  [**AAAI'22**] *Thirty-Sixth AAAI Conference on Artificial Intelligence.* [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/21407)
+  [**AAAI'22**] *The 36th AAAI Conference on Artificial Intelligence.* [\[Paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/21407)
 
 - **COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A Secondary Analysis of Reports Using Natural Language Processing** <br>
   Taejin L. Min, **Liyan Xu**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
