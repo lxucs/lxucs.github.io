@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am currently a Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
-I recently obtained my PhD of Computer Science from **Emory University**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi), and also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
+I recently obtained my PhD of Computer Science from **Emory University**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
 ## Research Interests
 
@@ -15,7 +15,7 @@ My past studies have addressed the following topics around **document understand
 
 I am currently working on several new exciting projects on **narrative understanding**, pushing for next-gen document comprehension under the LLM era. Papers are coming soon!
 
-*I am actively looking for motivated students to collaborate on NLP research. Please contact me by emails if you are interested in any research collaborations or discussions.*
+*I am actively looking for motivated students to collaborate on NLP research. Please contact me by emails if you are interested in research collaborations or discussions.*
 
 ## News
 
@@ -25,7 +25,6 @@ I am currently working on several new exciting projects on **narrative understan
 - \[05/2023\]: one paper got accepted by **ACL 2023**.
 - \[05/2022\]: started Applied Scientist Intern @ **Amazon Product Graph**.
 - \[04/2022\]: one paper got accepted by **NAACL 2022**.
-- \[04/2022\]: one paper got accepted by \*SEM 2022.
 - \[01/2022\]: one paper got accepted by **ICASSP 2022**.
 - \[12/2021\]: one paper got accepted by **AAAI 2022**.
 - \[08/2021\]: one paper got accepted by **EMNLP 2021**.
