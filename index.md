@@ -10,8 +10,8 @@ I recently obtained my PhD of Computer Science from **Emory University**, advise
 ## Research Interests
 
 My past studies have addressed the following topics around **document understanding**:<br>
-    • Tasks: coreference resolution, information extraction, summarization, reading comprehension<br>
-    • Settings: semi/weak supervision, cross-lingual transfer
+ • Tasks: coreference resolution, information extraction, summarization, reading comprehension<br>
+ • Settings: semi/weak supervision, cross-lingual transfer
 
 I am currently working on several new exciting projects on **narrative understanding**, pushing for next-gen document comprehension under the LLM era. Papers are coming soon!
 
