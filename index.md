@@ -10,10 +10,11 @@ I recently obtained my PhD of Computer Science from **Emory University**, advise
 ## Research Interests
 
 My past studies have addressed the following topics around **document understanding**:<br>
- • Tasks: coreference resolution, information extraction, summarization, reading comprehension<br>
- • Settings: semi/weak supervision, cross-lingual transfer
+ • Coreference Resolution, Information Extraction, Reading Comprehension, Semi/Weak Supervision
 
-I am currently working on several new exciting projects on **narrative understanding**, pushing for next-gen document comprehension under the LLM era. Papers are coming soon!
+I am currently engaged in the following topics, with an overall research interest around **narrative understanding**:<br>
+ • Narrative Tasks and Assessment<br>
+ • Global Comprehension & Long Context Modeling
 
 *I am actively looking for motivated students to collaborate on NLP research. Please contact me by emails if you are interested in research collaborations or discussions.*
 
@@ -33,7 +34,6 @@ I am currently working on several new exciting projects on **narrative understan
 - \[10/2020\]: started research collaboration @ **NEC Labs America**.
 - \[09/2020\]: one paper got accepted by **EMNLP 2020**.
 - \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition.
-- \[04/2020\]: one paper got accepted by BioNLP 2020.
 
 ## Selected Publications
 
