@@ -12,17 +12,17 @@ I recently obtained my PhD of Computer Science from **Emory University**, advise
 My past studies have addressed the following topics around **document understanding**:<br>
  • Coreference Resolution, Information Extraction, Reading Comprehension, Semi/Weak Supervision
 
-I am currently engaged in the following topics, with an overall research interest around **narrative understanding**:<br>
+I am currently engaged in the following research, with an overall interest on **narrative understanding**:<br>
  • Narrative Tasks and Assessment<br>
- • Global Comprehension & Long Context Modeling
+ • Global Comprehension and Long Context Modeling
 
 *I am actively looking for motivated students to collaborate on NLP research. Please contact me by emails if you are interested in research collaborations or discussions.*
 
 ## News
 
 - \[12/2023\]: one co-authored paper got accepted by **AAAI 2024**.
-- \[06/2023\]: started Research Scientist @ WeChat AI.
-- \[05/2023\]: completed my PhD journey @ Emory!
+- \[06/2023\]: started Research Scientist @ **WeChat AI**.
+- \[05/2023\]: completed my PhD journey @ **Emory**!
 - \[05/2023\]: one paper got accepted by **ACL 2023**.
 - \[05/2022\]: started Applied Scientist Intern @ **Amazon Product Graph**.
 - \[04/2022\]: one paper got accepted by **NAACL 2022**.
