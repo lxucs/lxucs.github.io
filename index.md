@@ -43,7 +43,7 @@ I am currently engaged in the following research, with an overall interest on **
   [In Review] *arXiv preprint 2402.13551*
 
 - **[Identifying Factual Inconsistency in Summaries: Towards Effective Utilization of Large Language Model](http://arxiv.org/abs/2402.12821)** <br>
-  **<ins>Liyan Xu</ins>**<sup>*</sup>, Zhenlin Su<sup>*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
+  **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
   [In Review] *arXiv preprint 2402.12821*
 
 - **[SIG: Speaker Identification in Literature via Prompt-Based Generation](http://arxiv.org/abs/2312.14590)** <br>
