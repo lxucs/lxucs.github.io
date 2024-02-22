@@ -11,13 +11,13 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My past studies have addressed topics around **document understanding**, including coreference resolution, information extraction, semi/weak supervision.
+My past studies addressed topics around **document understanding**, including coreference resolution, information extraction, and semi/weak supervision.
 
-I am currently engaged in the following research, with an overall interest on **narrative understanding**:<br>
- • Narrative Tasks and Assessment<br>
+I am currently engaged in research with an overall interest on **narrative comprehension**:<br>
+ • Narrative Tasks and Assessments<br>
  • Global Comprehension and Long Context Modeling
 
-*I am actively looking for motivated students to collaborate on NLP research. Please contact me by emails if you are interested in research collaborations or discussions.*
+*I am actively looking for motivated students to collaborate on NLP research.*
 
 ## News
 
@@ -99,7 +99,7 @@ I am currently engaged in the following research, with an overall interest on **
 
 - **[Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues](https://aclanthology.org/2021.codi-sharedtask.6)** <br>
   **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
-  [**CODI-CRAC'21**] *The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue.*
+  *The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue.*
 
 - **[ELIT: Emory Language and Information Toolkit](https://arxiv.org/abs/2109.03903)** <br>
   Han He, **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
