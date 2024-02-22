@@ -5,12 +5,13 @@ layout: homepage
 ## About Me
 
 I am currently a Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
-I recently obtained my PhD of Computer Science from **Emory University**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
+I recently graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
+
+Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.edu.cn/) and [CSU](https://compsci.colostate.edu/). Following this, I worked as a Software Engineer for two years before returning to graduate school.
 
 ## Research Interests
 
-My past studies have addressed the following topics around **document understanding**:<br>
- • Coreference Resolution, Information Extraction, Reading Comprehension, Semi/Weak Supervision
+My past studies have addressed topics around **document understanding**, including coreference resolution, information extraction, semi/weak supervision.
 
 I am currently engaged in the following research, with an overall interest on **narrative understanding**:<br>
  • Narrative Tasks and Assessment<br>
@@ -36,6 +37,14 @@ I am currently engaged in the following research, with an overall interest on **
 - \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition.
 
 ## Selected Publications
+
+- **[Graph Representation of Narrative Context: Coherence Dependency via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
+  **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
+  [In Review] *arXiv preprint 2402.13551*
+
+- **[Identifying Factual Inconsistency in Summaries: Towards Effective Utilization of Large Language Model](http://arxiv.org/abs/2402.12821)** <br>
+  **<ins>Liyan Xu</ins>**<sup>*</sup>, Zhenlin Su<sup>*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
+  [In Review] *arXiv preprint 2402.12821*
 
 - **[SIG: Speaker Identification in Literature via Prompt-Based Generation](http://arxiv.org/abs/2312.14590)** <br>
   Zhenlin Su, **<ins>Liyan Xu</ins>**<sup>†</sup>, Jin Xu<sup>†</sup>, Jiangnan Li, Mingdu Huangfu <br>
@@ -106,8 +115,12 @@ I am currently engaged in the following research, with an overall interest on **
 
 ## Professional Services
 
-- Program Committee: ACL, EMNLP, NAACL, AAAI, NeurIPS, ICML, ICLR
+- Program Committee Member (2023/2024): ACL, EMNLP, NAACL, AAAI, NeurIPS, ICML, ICLR
 
 <!--{% include_relative _includes/publications.md %}-->
 
 <!--{% include_relative _includes/services.md %}-->
+
+## Other Activities
+
+I enjoy exploring Mother Nature and photography ([my gallery](https://lxu-gallery.github.io/)).
