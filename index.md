@@ -15,12 +15,13 @@ My past studies addressed topics around **document understanding**, including co
 
 I am currently engaged in research with an overall interest on **narrative comprehension**:<br>
  • Narrative Tasks and Assessments<br>
- • Global Comprehension and Long Context Modeling
+ • Global Context Modeling and Comprehension
 
 *I am actively looking for motivated students to collaborate on NLP research.*
 
 ## News
 
+- \[05/2024\]: one paper got accepted by **ACL 2024**.
 - \[12/2023\]: one co-authored paper got accepted by **AAAI 2024**.
 - \[06/2023\]: started Research Scientist @ **WeChat AI**.
 - \[05/2023\]: completed my PhD journey @ **Emory**!
@@ -40,7 +41,7 @@ I am currently engaged in research with an overall interest on **narrative compr
 
 - **[Graph Representation of Narrative Context: Coherence Dependency via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
-  [In Review] *arXiv preprint 2402.13551*
+  [**ACL'24**] *The 62nd Annual Meeting of the Association for Computational Linguistics.*
 
 - **[Identifying Factual Inconsistency in Summaries: Towards Effective Utilization of Large Language Model](http://arxiv.org/abs/2402.12821)** <br>
   **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
