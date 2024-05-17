@@ -21,12 +21,12 @@ I am currently engaged in research with an overall interest on **narrative compr
 
 ## News
 
-- \[05/2024\]: three papers got accepted by: **ACL 2024**, **ICML 2024**, **AAAI 2024**.
+- \[05/2024\]: three papers got accepted by: **ACL** / **ICML** / **AAAI 2024**.
 - \[06/2023\]: started Research Scientist @ **WeChat AI**.
 - \[05/2023\]: completed my PhD journey @ **Emory**!
 - \[05/2023\]: one paper got accepted by: **ACL 2023**.
 - \[05/2022\]: started Applied Scientist Intern @ **Amazon Product Graph**.
-- \[04/2022\]: three papers got accepted by: **NAACL 2022**, **ICASSP 2022**, **AAAI 2022**.
+- \[04/2022\]: three papers got accepted by:**NAACL** / **ICASSP** / **AAAI 2022**.
 - \[08/2021\]: one paper got accepted by: **EMNLP 2021**.
 - \[08/2021\]: 1st place of CODI-CRAC 2021 shared task on anaphora resolution.
 - \[05/2021\]: started Applied Scientist Intern @ **Amazon Alexa ASR**.
