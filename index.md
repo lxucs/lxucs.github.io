@@ -14,7 +14,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 My past studies addressed topics around **document understanding**, including coreference resolution, information extraction, and semi/weak supervision.
 
 I am currently engaged in research with an overall interest on **narrative comprehension**:<br>
- • Narrative Tasks and Assessments<br>
+ • Next-Gen Narrative Tasks and Assessments<br>
  • Global Context Modeling and Comprehension
 
 *I am actively looking for motivated students to collaborate on NLP research.*
@@ -26,7 +26,7 @@ I am currently engaged in research with an overall interest on **narrative compr
 - \[05/2023\]: completed my PhD journey @ **Emory**!
 - \[05/2023\]: one paper got accepted by: **ACL 2023**.
 - \[05/2022\]: started Applied Scientist Intern @ **Amazon Product Graph**.
-- \[04/2022\]: three papers got accepted by:**NAACL** / **ICASSP** / **AAAI 2022**.
+- \[04/2022\]: three papers got accepted by: **NAACL** / **ICASSP** / **AAAI 2022**.
 - \[08/2021\]: one paper got accepted by: **EMNLP 2021**.
 - \[08/2021\]: 1st place of CODI-CRAC 2021 shared task on anaphora resolution.
 - \[05/2021\]: started Applied Scientist Intern @ **Amazon Alexa ASR**.
@@ -121,4 +121,4 @@ I am currently engaged in research with an overall interest on **narrative compr
 
 ## Other Activities
 
-I enjoy exploring Mother Nature and photography ([my gallery](https://lxu-gallery.github.io/)).
+I enjoy exploring Mother Nature and playing with my camera ([my gallery](https://lxu-gallery.github.io/)).
