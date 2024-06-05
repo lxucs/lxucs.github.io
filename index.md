@@ -36,7 +36,7 @@ I am currently engaged in research with an overall interest on **narrative compr
 
 ## Selected Publications
 
-- **[Graph Representation of Narrative Context: Coherence Dependency via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
+- **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
   [**ACL'24**] *The 62nd Annual Meeting of the Association for Computational Linguistics.*
 
