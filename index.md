@@ -14,8 +14,8 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 My past studies addressed topics around **document understanding**, including coreference resolution, information extraction, and semi/weak supervision.
 
 I am currently engaged in research with an overall interest on **narrative comprehension**:<br>
- • Next-Gen Narrative Tasks and Assessments<br>
- • Global Context Modeling and Comprehension
+ • Assessments on Narratives<br>
+ • Context Modeling and Comprehension
 
 *I am actively looking for motivated students to collaborate on NLP research.*
 
@@ -36,13 +36,13 @@ I am currently engaged in research with an overall interest on **narrative compr
 
 ## Selected Publications
 
+- **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](http://arxiv.org/abs/2402.12821)** <br>
+  **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
+  [In Submission] *arXiv preprint 2402.12821*
+
 - **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
   [**ACL'24**] *The 62nd Annual Meeting of the Association for Computational Linguistics.*
-
-- **[Identifying Factual Inconsistency in Summaries: Towards Effective Utilization of Large Language Model](http://arxiv.org/abs/2402.12821)** <br>
-  **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
-  [In Review] *arXiv preprint 2402.12821*
 
 - **[SIG: Speaker Identification in Literature via Prompt-Based Generation](http://arxiv.org/abs/2312.14590)** <br>
   Zhenlin Su, **<ins>Liyan Xu</ins>**<sup>†</sup>, Jin Xu<sup>†</sup>, Jiangnan Li, Mingdu Huangfu <br>
