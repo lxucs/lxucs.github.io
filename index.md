@@ -13,14 +13,15 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 My past studies addressed topics around **document understanding**, including coreference resolution, information extraction, and semi/weak supervision.
 
-I am currently engaged in research with an overall interest on **narrative comprehension**:<br>
- • Assessments on Narratives<br>
- • Context Modeling and Comprehension
+I am currently engaged in research with an overall interest on **long context modeling**:<br>
+ • Narrative Comprehension <br>
+ • Dialogue Comprehension
 
 *I am actively looking for motivated students to collaborate on NLP research.*
 
 ## News
 
+- \[09/2024\]: one paper got accepted by: **EMNLP 2024 Findings**.
 - \[05/2024\]: three papers got accepted by: **ACL** / **ICML** / **AAAI 2024**.
 - \[06/2023\]: started Research Scientist @ **WeChat AI**.
 - \[05/2023\]: completed my PhD journey @ **Emory**!
@@ -38,7 +39,7 @@ I am currently engaged in research with an overall interest on **narrative compr
 
 - **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](http://arxiv.org/abs/2402.12821)** <br>
   **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
-  [In Submission] *arXiv preprint 2402.12821*
+  [**EMNLP'24 Findings**] *arXiv preprint 2402.12821*
 
 - **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
