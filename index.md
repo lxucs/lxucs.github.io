@@ -5,19 +5,15 @@ layout: homepage
 ## About Me
 
 I am currently a Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
-I recently graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
+I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
-Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.edu.cn/) and [CSU](https://compsci.colostate.edu/). Following this, I worked as a Software Engineer for two years before returning to graduate school.
+Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.edu.cn/) and [CSU](https://compsci.colostate.edu/). Following this, I worked as a Software Engineer in US for two years before returning to graduate school.
 
 ## Research Interests
 
-My past studies addressed topics around **document understanding**, including coreference resolution, information extraction, and semi/weak supervision.
+My current research interests focus around **retrieval** and **context modeling** with LLMs.
 
-I am currently engaged in research with an overall interest on **long context modeling**:<br>
- • Narrative Comprehension <br>
- • Dialogue Comprehension
-
-*I am actively looking for motivated students to collaborate on NLP research.*
+*Actively looking for motivated students to collaborate on NLP research.*
 
 ## News
 
@@ -37,9 +33,13 @@ I am currently engaged in research with an overall interest on **long context mo
 
 ## Selected Publications
 
-- **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](http://arxiv.org/abs/2402.12821)** <br>
+- **[DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)** <br>
+  Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li <br>
+  *arXiv preprint 2502.16886*
+
+- **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](https://aclanthology.org/2024.findings-emnlp.857/)** <br>
   **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
-  [**EMNLP'24 Findings**] *arXiv preprint 2402.12821*
+  [**EMNLP'24 Findings**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
 - **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
