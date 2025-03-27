@@ -11,7 +11,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My current research interests focus around **retrieval** and **context modeling** with LLMs.
+My current research interests focus around **Retrieval / QA / Memory** with LLMs.
 
 *Actively looking for motivated students to collaborate on NLP research.*
 
@@ -114,7 +114,7 @@ My current research interests focus around **retrieval** and **context modeling*
 
 ## Professional Services
 
-- Program Committee Member (2023/2024): ACL, EMNLP, NAACL, AAAI, NeurIPS, ICML, ICLR
+- Program Committee Member: ARR Rolling (ACL, EMNLP, NAACL), AAAI, NeurIPS, ICML, ICLR
 
 <!--{% include_relative _includes/publications.md %}-->
 
