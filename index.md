@@ -11,7 +11,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My current research interests focus around **Retrieval / QA / Memory** with LLMs.
+My current research interests focus around **RAG / Discourse Understanding / Memory** with LLMs.
 
 *Actively looking for motivated students to collaborate on NLP research.*
 
