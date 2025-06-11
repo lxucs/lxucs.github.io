@@ -11,7 +11,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My current research interests focus around **RAG / Discourse Understanding / Memory** with LLMs.
+My current research interests focus around **Discourse Understanding** / **Long Context Comprehension** with LLMs.
 
 *Actively looking for motivated students to collaborate on NLP research.*
 
@@ -32,6 +32,10 @@ My current research interests focus around **RAG / Discourse Understanding / Mem
 - \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition.
 
 ## Selected Publications
+
+- **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://arxiv.org/abs/2506.08592)** <br>
+  **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
+  *arXiv preprint 2506.08592*
 
 - **[DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)** <br>
   Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li <br>
