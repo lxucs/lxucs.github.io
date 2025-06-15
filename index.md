@@ -43,7 +43,7 @@ My current research interests focus around **Discourse Understanding** / **Long 
 
 - **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](https://aclanthology.org/2024.findings-emnlp.857/)** <br>
   **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
-  [**EMNLP'24 Findings**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
+  [**EMNLP'24 Findings**] *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
 - **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
