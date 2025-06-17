@@ -17,18 +17,11 @@ My current research interests focus around **Discourse Understanding** / **Long 
 
 ## News
 
-- \[09/2024\]: one paper got accepted by: **EMNLP 2024 Findings**.
-- \[05/2024\]: three papers got accepted by: **ACL** / **ICML** / **AAAI 2024**.
 - \[06/2023\]: started Research Scientist @ **WeChat AI**.
 - \[05/2023\]: completed my PhD journey @ **Emory**!
-- \[05/2023\]: one paper got accepted by: **ACL 2023**.
 - \[05/2022\]: started Applied Scientist Intern @ **Amazon Product Graph**.
-- \[04/2022\]: three papers got accepted by: **NAACL** / **ICASSP** / **AAAI 2022**.
-- \[08/2021\]: one paper got accepted by: **EMNLP 2021**.
-- \[08/2021\]: 1st place of CODI-CRAC 2021 shared task on anaphora resolution.
 - \[05/2021\]: started Applied Scientist Intern @ **Amazon Alexa ASR**.
 - \[10/2020\]: started research collaboration @ **NEC Labs America**.
-- \[09/2020\]: one paper got accepted by: **EMNLP 2020**.
 - \[08/2020\]: winning team of the 2020 Amazon Alexa Prize Chatbot Competition.
 
 ## Selected Publications
@@ -53,12 +46,6 @@ My current research interests focus around **Discourse Understanding** / **Long 
   Zhenlin Su, **<ins>Liyan Xu</ins>**<sup>†</sup>, Jin Xu<sup>†</sup>, Jiangnan Li, Mingdu Huangfu <br>
   [**AAAI'24**] *The 38th AAAI Conference on Artificial Intelligence.*
 
-<!---
-- **[Exploring a Multi-Layered Cross-Genre Corpus of Document-Level Semantic Relations](https://www.mdpi.com/2078-2489/14/8/431)** <br>
-  Gregor Williamson, Angela Cao, Yingying Chen, Yuxin Ji, **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
-  *Information - Special Issue Information Extraction and Language Discourse Processing.*
---->
-
 - **[Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach](https://aclanthology.org/2023.acl-long.683/)** <br>
   **<ins>Liyan Xu</ins>**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi <br>
   [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics.*
@@ -67,12 +54,6 @@ My current research interests focus around **Discourse Understanding** / **Long 
 - **Predicting Kidney Transplant Recipient Cohorts’ 30-Day Rehospitalization Using Clinical Notes and Electronic Health Care Record Data** <br>
   Michael Arenson, Julien Hogan, **<ins>Liyan Xu</ins>**, Raymond Lynch, Yi-Ting Hana Lee, Jinho D. Choi, Jimeng Sun, Andrew Adams, Rachel E. Patzer <br>
   *Kidney International Reports, March 2023.* (*IF 2022*: 4.2) [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S2468024922019015)
---->
-
-<!---
-- **Improving Downstream Task Performance by Treating Numbers as Entities** <br>
-  Dhanasekar Sundararaman, Vivek Subramanian, Guoyin Wang, **<ins>Liyan Xu</ins>**, Lawrence Carin <br>
-  [**CIKM'22**] *31st ACM International Conference on Information and Knowledge Management.* [\[Paper\]](https://dl.acm.org/doi/abs/10.1145/3511808.3557614)
 --->
 
 - **[Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction](https://aclanthology.org/2022.naacl-main.395)** <br>
