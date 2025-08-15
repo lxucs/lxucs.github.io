@@ -27,7 +27,7 @@ My current research interests focus around **Long Context Comprehension** / **LL
 ## Selected Publications
 
 - **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
-  **Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
+  Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
   *arXiv preprint 2508.10419*
 
 - **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://arxiv.org/abs/2506.08592)** <br>
