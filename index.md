@@ -83,10 +83,6 @@ My current research interests focus around **Long Context Comprehension** / **LL
   **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
   *The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue.*
 
-- **[ELIT: Emory Language and Information Toolkit](https://arxiv.org/abs/2109.03903)** <br>
-  Han He, **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
-  *arXiv preprint 2109.03903*
-
 - **[Revealing the Myth of Higher-Order Inference in Coreference Resolution](https://www.aclweb.org/anthology/2020.emnlp-main.686)** <br>
   **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
   [**EMNLP'20**] *The 2020 Conference on Empirical Methods in Natural Language Processing.*
