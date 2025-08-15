@@ -11,7 +11,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My current research interests focus around **Discourse Understanding** / **Long Context Comprehension** with LLMs.
+My current research interests focus around **Long Context Comprehension** / **LLM Analysis**.
 
 *Actively looking for motivated students to collaborate on NLP research.*
 
@@ -26,6 +26,10 @@ My current research interests focus around **Discourse Understanding** / **Long 
 
 ## Selected Publications
 
+- **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
+  **Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
+  *arXiv preprint 2508.10419*
+
 - **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://arxiv.org/abs/2506.08592)** <br>
   **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
   *arXiv preprint 2506.08592*
@@ -38,7 +42,7 @@ My current research interests focus around **Discourse Understanding** / **Long 
   **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
   [**EMNLP'24 Findings**] *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
-- **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](http://arxiv.org/abs/2402.13551)** <br>
+- **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](https://aclanthology.org/2024.acl-long.317/)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
   [**ACL'24**] *The 62nd Annual Meeting of the Association for Computational Linguistics.*
 
@@ -49,12 +53,6 @@ My current research interests focus around **Discourse Understanding** / **Long 
 - **[Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach](https://aclanthology.org/2023.acl-long.683/)** <br>
   **<ins>Liyan Xu</ins>**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi <br>
   [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics.*
-
-<!---
-- **Predicting Kidney Transplant Recipient Cohorts’ 30-Day Rehospitalization Using Clinical Notes and Electronic Health Care Record Data** <br>
-  Michael Arenson, Julien Hogan, **<ins>Liyan Xu</ins>**, Raymond Lynch, Yi-Ting Hana Lee, Jinho D. Choi, Jimeng Sun, Andrew Adams, Rachel E. Patzer <br>
-  *Kidney International Reports, March 2023.* (*IF 2022*: 4.2) [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S2468024922019015)
---->
 
 - **[Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction](https://aclanthology.org/2022.naacl-main.395)** <br>
   **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
@@ -107,4 +105,4 @@ My current research interests focus around **Discourse Understanding** / **Long 
 
 ## Other Activities
 
-I enjoy exploring Mother Nature and playing with my camera ([my gallery](https://lxu-gallery.github.io/)).
+I enjoy wandering in nature with my camera in hand ([my gallery](https://lxu-gallery.github.io/)).
