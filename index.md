@@ -30,13 +30,13 @@ My current research interests focus around **Long Context Comprehension** / **LL
   Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
   *arXiv preprint 2508.10419*
 
-- **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://arxiv.org/abs/2506.08592)** <br>
-  **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
-  *arXiv preprint 2506.08592*
-
 - **[DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)** <br>
   Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li <br>
   *arXiv preprint 2502.16886*
+
+- **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://arxiv.org/abs/2506.08592)** <br>
+  **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
+  [**EMNLP'25 Findings**] *The 2025 Conference on Empirical Methods in Natural Language Processing.*
 
 - **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](https://aclanthology.org/2024.findings-emnlp.857/)** <br>
   **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
