@@ -34,7 +34,7 @@ My current research interests focus around **Long Context Comprehension** / **LL
   Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
   [**AAAI'26**] *The 40th AAAI Conference on Artificial Intelligence.*
 
-- **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://arxiv.org/abs/2506.08592)** <br>
+- **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://aclanthology.org/2025.findings-emnlp.1051/)** <br>
   **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
   [**EMNLP'25 Findings**] *The 2025 Conference on Empirical Methods in Natural Language Processing.*
 
