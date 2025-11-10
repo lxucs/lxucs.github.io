@@ -7,7 +7,7 @@ layout: homepage
 I am currently a Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
 I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
-Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.edu.cn/) and [CSU](https://compsci.colostate.edu/). Following this, I worked as a Software Engineer in US for two years before returning to graduate school.
+Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.edu.cn/) and [CSU](https://compsci.colostate.edu/). Following this, I worked as a Software Engineer for two years before returning to graduate school.
 
 ## Research Interests
 
@@ -26,13 +26,13 @@ My current research interests focus around **Long Context Comprehension** / **LL
 
 ## Selected Publications
 
-- **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
-  Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
-  *arXiv preprint 2508.10419*
-
 - **[DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)** <br>
   Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li <br>
   *arXiv preprint 2502.16886*
+
+- **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
+  Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
+  [**AAAI'26**] *The 40th AAAI Conference on Artificial Intelligence.*
 
 - **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://arxiv.org/abs/2506.08592)** <br>
   **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
