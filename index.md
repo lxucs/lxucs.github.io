@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
+I am currently a Senior Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
 I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
 Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.edu.cn/) and [CSU](https://compsci.colostate.edu/). Following this, I worked as a Software Engineer for two years before returning to graduate school.
@@ -26,8 +26,8 @@ My current research interests focus around **Long Context Comprehension** / **LL
 
 ## Selected Publications
 
-- **[DBudgetKV: Dynamic Budget in KV Cache Compression for Ensuring Optimal Performance](https://arxiv.org/abs/2502.16886)** <br>
-  Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li <br>
+- **[Towards Threshold-Free KV Cache Pruning](https://arxiv.org/abs/2502.16886)** <br>
+  Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>\*†</sup> <br>
   *arXiv preprint 2502.16886*
 
 - **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
