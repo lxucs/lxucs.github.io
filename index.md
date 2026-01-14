@@ -11,7 +11,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My current research interests focus around **Long Context Comprehension** / **LLM Analysis**.
+My current research interests focus around **Context Comprehension Modeling** / **LLM Analysis**.
 
 *Actively looking for motivated students to collaborate on NLP research.*
 
@@ -27,7 +27,7 @@ My current research interests focus around **Long Context Comprehension** / **LL
 ## Selected Publications
 
 - **[Towards Threshold-Free KV Cache Pruning](https://arxiv.org/abs/2502.16886)** <br>
-  Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>\*†</sup> <br>
+  Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>†</sup> <br>
   *arXiv preprint 2502.16886*
 
 - **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
