@@ -26,6 +26,8 @@ My current research interests focus around **Context Comprehension Modeling** / 
 
 ## Selected Publications
 
+(*: Equal Contribution; †: Project Lead)
+
 #### Context Comprehension Modeling
 
 - **[PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts](https://arxiv.org/abs/2508.09848)** <br>
