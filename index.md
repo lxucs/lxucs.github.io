@@ -47,7 +47,7 @@ My current research interests focus around **Context Comprehension Modeling** / 
   [**ACL'24**] *The 62nd Annual Meeting of the Association for Computational Linguistics.*
 
 - **[Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph](https://ojs.aaai.org/index.php/AAAI/article/view/21407)** <br>
-  **<ins>Liyan Xu</ins>**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho Choi <br>
   [**AAAI'22**] *The 36th AAAI Conference on Artificial Intelligence.*
 
 ### Language Modeling & Analysis
@@ -65,13 +65,13 @@ My current research interests focus around **Context Comprehension Modeling** / 
   [**ICASSP'22**] *2022 IEEE International Conference on Acoustics, Speech and Signal Processing.*
 
 - **[Boosting Cross-Lingual Transfer via Self-Learning with Uncertainty Estimation](https://aclanthology.org/2021.emnlp-main.538)** <br>
-  **<ins>Liyan Xu</ins>**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho Choi <br>
   [**EMNLP'21**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
 ### Semantics & Information Extraction
 
 - **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](https://aclanthology.org/2024.findings-emnlp.857/)** <br>
-  **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
+  **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho Choi, Jie Zhou, Fei Liu <br>
   [**EMNLP'24 Findings**] *The 2024 Conference on Empirical Methods in Natural Language Processing.*
 
 - **[SIG: Speaker Identification in Literature via Prompt-Based Generation](http://arxiv.org/abs/2312.14590)** <br>
@@ -79,34 +79,34 @@ My current research interests focus around **Context Comprehension Modeling** / 
   [**AAAI'24**] *The 38th AAAI Conference on Artificial Intelligence.*
 
 - **[Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach](https://aclanthology.org/2023.acl-long.683/)** <br>
-  **<ins>Liyan Xu</ins>**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho Choi <br>
   [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics.*
 
 - **[Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction](https://aclanthology.org/2022.naacl-main.395)** <br>
-  **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Jinho Choi <br>
   [**NAACL'22**] *The 2022 Conference of the North American Chapter of the Association for Computational Linguistics.*
 
 - **[Online Coreference Resolution for Dialogue Processing: Improving Mention-Linking on Real-Time Conversations](https://aclanthology.org/2022.starsem-1.30)** <br>
-  **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Jinho Choi <br>
   [**\*SEM'22**] *The 11th Joint Conference on Lexical and Computational Semantics.*
 
 - **[Adapted End-to-End Coreference Resolution System for Anaphoric Identities in Dialogues](https://aclanthology.org/2021.codi-sharedtask.6)** <br>
-  **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Jinho Choi <br>
   *The CODI-CRAC 2021 Shared Task on Anaphora, Bridging, and Discourse Deixis in Dialogue.*
 
 - **[Revealing the Myth of Higher-Order Inference in Coreference Resolution](https://www.aclweb.org/anthology/2020.emnlp-main.686)** <br>
-  **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Jinho Choi <br>
   [**EMNLP'20**] *The 2020 Conference on Empirical Methods in Natural Language Processing.*
 
 ### Applications
 
 - **[COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A Secondary Analysis of Reports Using Natural Language Processing](https://www.sciencedirect.com/science/article/pii/S0363018821001894)** <br>
-  Taejin L. Min, **<ins>Liyan Xu</ins>**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
-  Jeffrey M. Switchenko, Gelareh Sadigh <br>
+  Taejin Min, **<ins>Liyan Xu</ins>**, Jinho Choi, Ranliang Hu, Jason Allen, Christopher Reeves, Derek Hsu, Richard Duszak,
+  Jeffrey Switchenko, Gelareh Sadigh <br>
   *Current Problems in Diagnostic Radiology, July–August 2022.*
 
 - **[Noise Pollution in Hospital Readmission Prediction: Long Document Classification with Reinforcement Learning](https://www.aclweb.org/anthology/2020.bionlp-1.10)** <br>
-  **<ins>Liyan Xu</ins>**, Julien Hogan, Rachel E. Patzer, Jinho D. Choi <br>
+  **<ins>Liyan Xu</ins>**, Julien Hogan, Rachel Patzer, Jinho Choi <br>
   [**BioNLP'20**] *The 19th SIGBioMed Workshop on Biomedical Language Processing.*
 
 ## Professional Services
