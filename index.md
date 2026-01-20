@@ -28,14 +28,14 @@ My current research interests focus around **Context Comprehension Modeling** / 
 
 (*: Equal Contribution; †: Project Lead)
 
-#### Context Comprehension Modeling
+### Context Comprehension Modeling
 
 - **[PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts](https://arxiv.org/abs/2508.09848)** <br>
-  Mo Yu<sup>\*</sup>, Tsz Ting Chung<sup>\*</sup>, Chulun Zhou<sup>\*</sup>, Tong Li<sup>\*</sup>, Rui Lu<sup>\*</sup>, Jiangnan Li<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou
+  Mo Yu<sup>\*</sup>, Tsz Ting Chung<sup>\*</sup>, Chulun Zhou<sup>\*</sup>, Tong Li<sup>\*</sup>, Rui Lu<sup>\*</sup>, Jiangnan Li<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou <br>
   *arXiv preprint 2508.09848*
 
 - **[SitEmb-v1.5: Improved Context-Aware Dense Retrieval for Semantic Association and Long Story Comprehension](https://arxiv.org/abs/2508.01959)** <br>
-  Junjie Wu, Jiangnan Li, Yuqing Li, Lemao Liu, **<ins>Liyan Xu</ins>**, Jiwei Li, Dit-Yan Yeung, Jie Zhou, Mo Yu
+  Junjie Wu, Jiangnan Li, Yuqing Li, Lemao Liu, **<ins>Liyan Xu</ins>**, Jiwei Li, Dit-Yan Yeung, Jie Zhou, Mo Yu <br>
   *arXiv preprint 2508.01959*
 
 - **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
@@ -50,7 +50,7 @@ My current research interests focus around **Context Comprehension Modeling** / 
   **<ins>Liyan Xu</ins>**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho D. Choi <br>
   [**AAAI'22**] *The 36th AAAI Conference on Artificial Intelligence.*
 
-#### Language Modeling & Analysis
+### Language Modeling & Analysis
 
 - **[Towards Threshold-Free KV Cache Pruning](https://arxiv.org/abs/2502.16886)** <br>
   Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>†</sup> <br>
@@ -68,7 +68,7 @@ My current research interests focus around **Context Comprehension Modeling** / 
   **<ins>Liyan Xu</ins>**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho D. Choi <br>
   [**EMNLP'21**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
-#### Semantics & Information Extraction
+### Semantics & Information Extraction
 
 - **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](https://aclanthology.org/2024.findings-emnlp.857/)** <br>
   **<ins>Liyan Xu</ins>**<sup>\*</sup>, Zhenlin Su<sup>\*</sup>, Mo Yu, Jin Xu, Jinho D. Choi, Jie Zhou, Fei Liu <br>
@@ -98,7 +98,7 @@ My current research interests focus around **Context Comprehension Modeling** / 
   **<ins>Liyan Xu</ins>**, Jinho D. Choi <br>
   [**EMNLP'20**] *The 2020 Conference on Empirical Methods in Natural Language Processing.*
 
-#### Applications
+### Applications
 
 - **[COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A Secondary Analysis of Reports Using Natural Language Processing](https://www.sciencedirect.com/science/article/pii/S0363018821001894)** <br>
   Taejin L. Min, **<ins>Liyan Xu</ins>**, Jinho D. Choi, Ranliang Hu, Jason W. Allen, Christopher W. Reeves, Derek Hsu, Richard Duszak,
