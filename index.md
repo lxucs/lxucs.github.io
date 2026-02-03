@@ -52,6 +52,10 @@ My current research interests focus around **Context Comprehension Modeling** / 
 
 ### Language Modeling & Analysis
 
+- **[No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://arxiv.org/abs/2602.02103)** <br>
+  **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
+  *arXiv preprint 2602.02103*
+
 - **[Towards Threshold-Free KV Cache Pruning](https://arxiv.org/abs/2502.16886)** <br>
   Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>†</sup> <br>
   *arXiv preprint 2502.16886*
