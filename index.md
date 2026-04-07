@@ -32,11 +32,11 @@ My current research interests focus around **Context Comprehension Modeling** / 
 
 - **[PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts](https://arxiv.org/abs/2508.09848)** <br>
   Mo Yu<sup>\*</sup>, Tsz Ting Chung<sup>\*</sup>, Chulun Zhou<sup>\*</sup>, Tong Li<sup>\*</sup>, Rui Lu<sup>\*</sup>, Jiangnan Li<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou <br>
-  *arXiv preprint 2508.09848*
+  [**ACL'26 Findings**] *The 64th Annual Meeting of the Association for Computational Linguistics.*
 
 - **[SitEmb-v1.5: Improved Context-Aware Dense Retrieval for Semantic Association and Long Story Comprehension](https://arxiv.org/abs/2508.01959)** <br>
   Junjie Wu, Jiangnan Li, Yuqing Li, Lemao Liu, **<ins>Liyan Xu</ins>**, Jiwei Li, Dit-Yan Yeung, Jie Zhou, Mo Yu <br>
-  *arXiv preprint 2508.01959*
+  [**ACL'26**] *The 64th Annual Meeting of the Association for Computational Linguistics.*
 
 - **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
   Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
@@ -56,9 +56,9 @@ My current research interests focus around **Context Comprehension Modeling** / 
   **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
   *arXiv preprint 2602.02103*
 
-- **[Towards Threshold-Free KV Cache Pruning](https://arxiv.org/abs/2502.16886)** <br>
+- **[ReFreeKV: Towards Threshold-Free KV Cache Pruning](https://arxiv.org/abs/2502.16886)** <br>
   Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>†</sup> <br>
-  *arXiv preprint 2502.16886*
+  [**ACL'26 Findings**] *The 64th Annual Meeting of the Association for Computational Linguistics.*
 
 - **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://aclanthology.org/2025.findings-emnlp.1051/)** <br>
   **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
