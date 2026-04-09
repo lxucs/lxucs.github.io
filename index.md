@@ -11,7 +11,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My current research interests focus around **Context Comprehension Modeling** / **LLM Analysis**.
+My current research interests focus around **Context Comprehension Modeling** / **LLM Efficiency**.
 
 *Actively looking for motivated students to collaborate on NLP research.*
 
@@ -32,7 +32,7 @@ My current research interests focus around **Context Comprehension Modeling** / 
 
 - **[PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts](https://arxiv.org/abs/2508.09848)** <br>
   Mo Yu<sup>\*</sup>, Tsz Ting Chung<sup>\*</sup>, Chulun Zhou<sup>\*</sup>, Tong Li<sup>\*</sup>, Rui Lu<sup>\*</sup>, Jiangnan Li<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou <br>
-  [**ACL'26 Findings**] *The 64th Annual Meeting of the Association for Computational Linguistics.*
+  *arXiv preprint 2508.09848*
 
 - **[SitEmb-v1.5: Improved Context-Aware Dense Retrieval for Semantic Association and Long Story Comprehension](https://arxiv.org/abs/2508.01959)** <br>
   Junjie Wu, Jiangnan Li, Yuqing Li, Lemao Liu, **<ins>Liyan Xu</ins>**, Jiwei Li, Dit-Yan Yeung, Jie Zhou, Mo Yu <br>
