@@ -11,7 +11,7 @@ Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.e
 
 ## Research Interests
 
-My current research interests focus around **Context Comprehension Modeling** / **LLM Efficiency**.
+My current research interests focus around **Context Comprehension Modeling** & **LLM Efficiency**.
 
 *Actively looking for motivated students to collaborate on NLP research.*
 
@@ -58,7 +58,7 @@ My current research interests focus around **Context Comprehension Modeling** / 
 
 - **[No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://arxiv.org/abs/2602.02103)** <br>
   **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
-  *arXiv preprint 2602.02103*
+  [**ICML'26**] *The 43rd International Conference on Machine Learning.*
 
 - **[ReFreeKV: Towards *Threshold-Free* KV Cache Compression](https://arxiv.org/abs/2502.16886)** <br>
   Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>†</sup> <br>
