@@ -7,13 +7,11 @@ layout: homepage
 I am currently a Senior Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
 I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
-Before Emory, I completed my bachelor's degrees at [ECNU](https://english.ecnu.edu.cn/) and [CSU](https://compsci.colostate.edu/). Following this, I worked as a Software Engineer for two years before returning to graduate school.
-
 ## Research Interests
 
-My current research interests focus around **Context Comprehension Modeling** & **LLM Efficiency**.
+My current research interests focus around **Context Comprehension Modeling** and **LLM Efficiency**.
 
-*Actively looking for motivated students to collaborate on NLP research.*
+*Actively looking for motivated students to collaborate on research.*
 
 ## News
 
@@ -28,7 +26,7 @@ My current research interests focus around **Context Comprehension Modeling** & 
 
 (*: Equal Contribution; †: Project Lead)
 
-### Context Comprehension & Retrieval
+### Context Comprehension
 
 - **[PRELUDE: A Benchmark Designed to Require Global Comprehension and Reasoning over Long Contexts](https://arxiv.org/abs/2508.09848)** <br>
   Mo Yu<sup>\*</sup>, Tsz Ting Chung<sup>\*</sup>, Chulun Zhou<sup>\*</sup>, Tong Li<sup>\*</sup>, Rui Lu<sup>\*</sup>, Jiangnan Li<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*</sup>, Haoshu Lu, Ning Zhang, Jing Li, Jie Zhou <br>
@@ -41,10 +39,6 @@ My current research interests focus around **Context Comprehension Modeling** & 
 - **[ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning](https://arxiv.org/abs/2508.10419)** <br>
   Juyuan Wang<sup>\*</sup>, Rongchen Zhao<sup>\*</sup>, Wei Wei, Yufeng Wang, Mo Yu, Jie Zhou, Jin Xu, **<ins>Liyan Xu</ins>**<sup>†</sup> <br>
   [**AAAI'26**] *The 40th AAAI Conference on Artificial Intelligence.*
-
-- **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://aclanthology.org/2025.findings-emnlp.1051/)** <br>
-  **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
-  [**EMNLP'25 Findings**] *The 2025 Conference on Empirical Methods in Natural Language Processing.*
 
 - **[Fine-Grained Modeling of Narrative Context: A Coherence Perspective via Retrospective Questions](https://aclanthology.org/2024.acl-long.317/)** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Mo Yu, Jie Zhou <br>
@@ -72,6 +66,16 @@ My current research interests focus around **Context Comprehension Modeling** & 
   **<ins>Liyan Xu</ins>**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho Choi <br>
   [**EMNLP'21**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
+### Representation Learning & Alignment
+
+- **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://aclanthology.org/2025.findings-emnlp.1051/)** <br>
+  **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
+  [**EMNLP'25 Findings**] *The 2025 Conference on Empirical Methods in Natural Language Processing.*
+
+- **[Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach](https://aclanthology.org/2023.acl-long.683/)** <br>
+  **<ins>Liyan Xu</ins>**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho Choi <br>
+  [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics.*
+
 ### Information Extraction & Discourse
 
 - **[Identifying Factual Inconsistencies in Summaries: Grounding Model Inference via Task Taxonomy](https://aclanthology.org/2024.findings-emnlp.857/)** <br>
@@ -81,10 +85,6 @@ My current research interests focus around **Context Comprehension Modeling** & 
 - **[SIG: Speaker Identification in Literature via Prompt-Based Generation](http://arxiv.org/abs/2312.14590)** <br>
   Zhenlin Su, **<ins>Liyan Xu</ins>**<sup>†</sup>, Jin Xu<sup>†</sup>, Jiangnan Li, Mingdu Huangfu <br>
   [**AAAI'24**] *The 38th AAAI Conference on Artificial Intelligence.*
-
-- **[Towards Open-World Product Attribute Mining: A Lightly-Supervised Approach](https://aclanthology.org/2023.acl-long.683/)** <br>
-  **<ins>Liyan Xu</ins>**, Chenwei Zhang, Xian Li, Jingbo Shang, Jinho Choi <br>
-  [**ACL'23**] *The 61st Annual Meeting of the Association for Computational Linguistics.*
 
 - **[Modeling Task Interactions in Document-Level Joint Entity and Relation Extraction](https://aclanthology.org/2022.naacl-main.395)** <br>
   **<ins>Liyan Xu</ins>**, Jinho Choi <br>
