@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am currently a Senior Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP).
-I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi). I was also co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
+I am currently a Senior Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP) and Large Language Models (LLM).
+I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi), and co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
 ## Research Interests
 
-My current research interests focus around **Context Comprehension Modeling** and **LLM Efficiency**.
+My current research interests focus around **Context Comprehension Modeling**, **LLM Memory** and **LLM Efficiency**.
 
-*Actively looking for motivated students to collaborate on research.*
+*Looking forward to research collaboration and discussions.*
 
 ## News
 
