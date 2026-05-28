@@ -9,7 +9,7 @@ I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)*
 
 ## Research Interests
 
-My current research interests focus around **Context Comprehension Modeling**, **LLM Memory** and **LLM Efficiency**.
+My current research interests focus around **Agentic Context Comprehension** and **LLM Memory**.
 
 *Looking forward to research collaboration and discussions.*
 
@@ -50,7 +50,7 @@ My current research interests focus around **Context Comprehension Modeling**, *
 
 ### Language Modeling & Efficiency
 
-- **[No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://arxiv.org/abs/2602.02103)** <br>
+- **[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](https://arxiv.org/abs/2602.02103)** <br>
   **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
   [**ICML'26**] *The 43rd International Conference on Machine Learning.*
 
