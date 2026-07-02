@@ -9,7 +9,7 @@ I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)*
 
 ## Research Interests
 
-My current research interests focus around **Agentic Context Comprehension** and **LLM Memory**.
+My current research interests focus around **LLM Memory**, **Efficiency** and **Agentic Context Comprehension**.
 
 *Looking forward to research collaboration and discussions.*
 
