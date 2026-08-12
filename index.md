@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am currently a Senior Research Scientist at **WeChat AI, Tencent**, focusing on Natural Language Processing (NLP) and Large Language Models (LLM).
-I graduated with PhD of Computer Science from **[Emory](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi), and co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
+I graduated with PhD of Computer Science from **[Emory University](https://www.emory.edu/)**, advised by Dr. [Jinho Choi](https://www.emorynlp.org/faculty/jinho-choi), and co-advised by Dr. [Fei Liu](https://www.cs.emory.edu/~fliu40/) in 2023.
 
 ## Research Interests
 
@@ -66,7 +66,7 @@ My current research interests focus around **LLM Memory**, **Efficiency** and **
   **<ins>Liyan Xu</ins>**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho Choi <br>
   [**EMNLP'21**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
-### Representation Learning & Alignment
+### Representation Learning
 
 - **[Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings](https://aclanthology.org/2025.findings-emnlp.1051/)** <br>
   **<ins>Liyan Xu</ins>**, Zhenlin Su, Mo Yu, Jiangnan Li, Fandong Meng, Jie Zhou <br>
