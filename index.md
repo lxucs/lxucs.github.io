@@ -9,7 +9,7 @@ I graduated with PhD of Computer Science from **[Emory University](https://www.e
 
 ## Research Interests
 
-My current research interests focus around **LLM Memory**, **Efficiency** and **Agentic Context Comprehension**.
+My current research interests focus around **LLM Memory** and **Agentic Context Comprehension**.
 
 *Looking forward to research collaboration and discussions.*
 
@@ -25,6 +25,32 @@ My current research interests focus around **LLM Memory**, **Efficiency** and **
 ## Selected Publications
 
 (*: Equal Contribution; †: Project Lead)
+
+### Language Modeling
+
+- **Rank Is the Bottleneck: Measuring and Training Pluggable Memory for LLMs.** <br>
+  **<ins>Liyan Xu</ins>**, Jiangnan Li, Zhiqiang Yuan, Zexi Jia, Jinchao Zhang, Jie Zhou <br>
+  arXiv Soon.
+
+- **Think Less, Locally: Local Preference Learning for Reasoning Compression.** <br>
+  Muyao Yuan, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Weizhan Zhang, Muyan Jiao, Jiangnan Li, Jinchao Zhang, Jie Zhou <br>
+  arXiv Soon.
+
+- **[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](https://arxiv.org/abs/2602.02103)** <br>
+  **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
+  [**ICML'26**] *The 43rd International Conference on Machine Learning.*
+
+- **[ReFreeKV: Towards *Threshold-Free* KV Cache Compression](https://arxiv.org/abs/2502.16886)** <br>
+  Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>†</sup> <br>
+  [**ACL'26 Findings**] *The 64th Annual Meeting of the Association for Computational Linguistics.*
+
+- **[RescoreBERT: Discriminative Speech Recognition Rescoring with BERT](https://ieeexplore.ieee.org/document/9747118)** <br>
+  **<ins>Liyan Xu</ins>**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko <br>
+  [**ICASSP'22**] *2022 IEEE International Conference on Acoustics, Speech and Signal Processing.*
+
+- **[Boosting Cross-Lingual Transfer via Self-Learning with Uncertainty Estimation](https://aclanthology.org/2021.emnlp-main.538)** <br>
+  **<ins>Liyan Xu</ins>**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho Choi <br>
+  [**EMNLP'21**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
 ### Context Comprehension
 
@@ -47,24 +73,6 @@ My current research interests focus around **LLM Memory**, **Efficiency** and **
 - **[Zero-Shot Cross-Lingual Machine Reading Comprehension via Inter-Sentence Dependency Graph](https://ojs.aaai.org/index.php/AAAI/article/view/21407)** <br>
   **<ins>Liyan Xu</ins>**, Xuchao Zhang, Bo Zong, Yanchi Liu, Wei Cheng, Jingchao Ni, Haifeng Chen, Liang Zhao, Jinho Choi <br>
   [**AAAI'22**] *The 36th AAAI Conference on Artificial Intelligence.*
-
-### Language Modeling & Efficiency
-
-- **[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](https://arxiv.org/abs/2602.02103)** <br>
-  **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
-  [**ICML'26**] *The 43rd International Conference on Machine Learning.*
-
-- **[ReFreeKV: Towards *Threshold-Free* KV Cache Compression](https://arxiv.org/abs/2502.16886)** <br>
-  Xuanfan Ni<sup>\*</sup>, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Chenyang Lyu, Longyue Wang, Mo Yu, Lemao Liu, Fandong Meng, Jie Zhou, Piji Li<sup>†</sup> <br>
-  [**ACL'26 Findings**] *The 64th Annual Meeting of the Association for Computational Linguistics.*
-
-- **[RescoreBERT: Discriminative Speech Recognition Rescoring with BERT](https://ieeexplore.ieee.org/document/9747118)** <br>
-  **<ins>Liyan Xu</ins>**, Yile Gu, Jari Kolehmainen, Haidar Khan, Ankur Gandhe, Ariya Rastrow, Andreas Stolcke, Ivan Bulyko <br>
-  [**ICASSP'22**] *2022 IEEE International Conference on Acoustics, Speech and Signal Processing.*
-
-- **[Boosting Cross-Lingual Transfer via Self-Learning with Uncertainty Estimation](https://aclanthology.org/2021.emnlp-main.538)** <br>
-  **<ins>Liyan Xu</ins>**, Xuchao Zhang, Xujiang Zhao, Haifeng Chen, Feng Chen, Jinho Choi <br>
-  [**EMNLP'21**] *The 2021 Conference on Empirical Methods in Natural Language Processing.*
 
 ### Representation Learning
 
@@ -101,17 +109,6 @@ My current research interests focus around **LLM Memory**, **Efficiency** and **
 - **[Revealing the Myth of Higher-Order Inference in Coreference Resolution](https://www.aclweb.org/anthology/2020.emnlp-main.686)** <br>
   **<ins>Liyan Xu</ins>**, Jinho Choi <br>
   [**EMNLP'20**] *The 2020 Conference on Empirical Methods in Natural Language Processing.*
-
-### Applications
-
-- **[COVID-19 Pandemic-Associated Changes in the Acuity of Brain MRI Findings: A Secondary Analysis of Reports Using Natural Language Processing](https://www.sciencedirect.com/science/article/pii/S0363018821001894)** <br>
-  Taejin Min, **<ins>Liyan Xu</ins>**, Jinho Choi, Ranliang Hu, Jason Allen, Christopher Reeves, Derek Hsu, Richard Duszak,
-  Jeffrey Switchenko, Gelareh Sadigh <br>
-  *Current Problems in Diagnostic Radiology, July–August 2022.*
-
-- **[Noise Pollution in Hospital Readmission Prediction: Long Document Classification with Reinforcement Learning](https://www.aclweb.org/anthology/2020.bionlp-1.10)** <br>
-  **<ins>Liyan Xu</ins>**, Julien Hogan, Rachel Patzer, Jinho Choi <br>
-  [**BioNLP'20**] *The 19th SIGBioMed Workshop on Biomedical Language Processing.*
 
 ## Professional Services
 
