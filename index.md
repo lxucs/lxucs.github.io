@@ -28,11 +28,11 @@ My current research interests focus around **LLM Memory** and **Agentic Context 
 
 ### Language Modeling
 
-- **Rank Is the Bottleneck: Measuring and Training Pluggable Memory for LLMs.** <br>
+- **Rank Is the Bottleneck: Measuring and Training Pluggable Memory for LLMs** <br>
   **<ins>Liyan Xu</ins>**, Jiangnan Li, Zhiqiang Yuan, Zexi Jia, Jinchao Zhang, Jie Zhou <br>
   arXiv Soon.
 
-- **Think Less, Locally: Local Preference Learning for Reasoning Compression.** <br>
+- **[Think Less, Locally: Local Preference Learning for Reasoning Compression](https://arxiv.org/abs/2611.04814)** <br>
   Muyao Yuan, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Weizhan Zhang, Muyan Jiao, Jiangnan Li, Jinchao Zhang, Jie Zhou <br>
   arXiv Soon.
 
