@@ -9,7 +9,7 @@ I graduated with PhD of Computer Science from **[Emory University](https://www.e
 
 ## Research Interests
 
-My current research interests focus around **Efficient Context Representation** and **Agentic Context Modeling**.
+My current research interests focus around **Efficient Representation and Reasoning** in LLM and **Agentic Context Modeling and Memory**.
 
 *Looking forward to research collaboration and discussions.*
 
@@ -36,7 +36,7 @@ My current research interests focus around **Efficient Context Representation** 
   Muyao Yuan, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Weizhan Zhang, Muyan Jiao, Jiangnan Li, Jinchao Zhang, Jie Zhou <br>
   *arXiv preprint 2611.04814*
 
-- **[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](https://arxiv.org/abs/2602.02103)** <br>
+- **[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](https://openreview.net/forum?id=pZqloVjqHd)** <br>
   **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
   [**ICML'26**] *The 43rd International Conference on Machine Learning.*
 
