@@ -9,7 +9,7 @@ I graduated with PhD of Computer Science from **[Emory University](https://www.e
 
 ## Research Interests
 
-My current research interests focus around **LLM Memory** and **Agentic Context Comprehension**.
+My current research interests focus around **Efficient Context Representation** and **Agentic Context Modeling**.
 
 *Looking forward to research collaboration and discussions.*
 
@@ -34,7 +34,7 @@ My current research interests focus around **LLM Memory** and **Agentic Context 
 
 - **[Think Less, Locally: Local Preference Learning for Reasoning Compression](https://arxiv.org/abs/2611.04814)** <br>
   Muyao Yuan, **<ins>Liyan Xu</ins>**<sup>\*†</sup>, Weizhan Zhang, Muyan Jiao, Jiangnan Li, Jinchao Zhang, Jie Zhou <br>
-  arXiv Soon.
+  *arXiv preprint 2611.04814*
 
 - **[How Far Ahead Do LLMs Plan? Uncovering the Latent Horizon in Chain-of-Thought Reasoning](https://arxiv.org/abs/2602.02103)** <br>
   **<ins>Liyan Xu</ins>**, Mo Yu, Fandong Meng, Jie Zhou <br>
